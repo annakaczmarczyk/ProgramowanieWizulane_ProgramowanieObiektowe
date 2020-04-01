@@ -1,0 +1,10 @@
+G:\ANIA\ProgramowanieWizualne\KostkaDoGry\bin\Debug\KostkaDoGry.exe.config
+G:\ANIA\ProgramowanieWizualne\KostkaDoGry\bin\Debug\KostkaDoGry.exe
+G:\ANIA\ProgramowanieWizualne\KostkaDoGry\bin\Debug\KostkaDoGry.pdb
+G:\ANIA\ProgramowanieWizualne\KostkaDoGry\obj\Debug\KostkaDoGry.csprojAssemblyReference.cache
+G:\ANIA\ProgramowanieWizualne\KostkaDoGry\obj\Debug\KostkaDoGry.Form1.resources
+G:\ANIA\ProgramowanieWizualne\KostkaDoGry\obj\Debug\KostkaDoGry.Properties.Resources.resources
+G:\ANIA\ProgramowanieWizualne\KostkaDoGry\obj\Debug\KostkaDoGry.csproj.GenerateResource.cache
+G:\ANIA\ProgramowanieWizualne\KostkaDoGry\obj\Debug\KostkaDoGry.csproj.CoreCompileInputs.cache
+G:\ANIA\ProgramowanieWizualne\KostkaDoGry\obj\Debug\KostkaDoGry.exe
+G:\ANIA\ProgramowanieWizualne\KostkaDoGry\obj\Debug\KostkaDoGry.pdb
