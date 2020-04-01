@@ -1,0 +1,9 @@
+E:\zmuda\PW\lab03\zad 2\Pesel\Pesel\bin\Debug\Pesel.exe.config
+E:\zmuda\PW\lab03\zad 2\Pesel\Pesel\bin\Debug\Pesel.exe
+E:\zmuda\PW\lab03\zad 2\Pesel\Pesel\bin\Debug\Pesel.pdb
+E:\zmuda\PW\lab03\zad 2\Pesel\Pesel\obj\Debug\Pesel.csprojAssemblyReference.cache
+E:\zmuda\PW\lab03\zad 2\Pesel\Pesel\obj\Debug\Pesel.Form1.resources
+E:\zmuda\PW\lab03\zad 2\Pesel\Pesel\obj\Debug\Pesel.Properties.Resources.resources
+E:\zmuda\PW\lab03\zad 2\Pesel\Pesel\obj\Debug\Pesel.csproj.GenerateResource.cache
+E:\zmuda\PW\lab03\zad 2\Pesel\Pesel\obj\Debug\Pesel.exe
+E:\zmuda\PW\lab03\zad 2\Pesel\Pesel\obj\Debug\Pesel.pdb
