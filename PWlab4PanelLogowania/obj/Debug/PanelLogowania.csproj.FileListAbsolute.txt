@@ -1,0 +1,11 @@
+G:\ANIA\ProgramowanieWizualne\PanelLogowania\bin\Debug\PanelLogowania.exe.config
+G:\ANIA\ProgramowanieWizualne\PanelLogowania\bin\Debug\PanelLogowania.exe
+G:\ANIA\ProgramowanieWizualne\PanelLogowania\bin\Debug\PanelLogowania.pdb
+G:\ANIA\ProgramowanieWizualne\PanelLogowania\obj\Debug\PanelLogowania.csprojAssemblyReference.cache
+G:\ANIA\ProgramowanieWizualne\PanelLogowania\obj\Debug\PanelLogowania.Form1.resources
+G:\ANIA\ProgramowanieWizualne\PanelLogowania\obj\Debug\PanelLogowania.Form2.resources
+G:\ANIA\ProgramowanieWizualne\PanelLogowania\obj\Debug\PanelLogowania.Properties.Resources.resources
+G:\ANIA\ProgramowanieWizualne\PanelLogowania\obj\Debug\PanelLogowania.csproj.GenerateResource.cache
+G:\ANIA\ProgramowanieWizualne\PanelLogowania\obj\Debug\PanelLogowania.csproj.CoreCompileInputs.cache
+G:\ANIA\ProgramowanieWizualne\PanelLogowania\obj\Debug\PanelLogowania.exe
+G:\ANIA\ProgramowanieWizualne\PanelLogowania\obj\Debug\PanelLogowania.pdb
