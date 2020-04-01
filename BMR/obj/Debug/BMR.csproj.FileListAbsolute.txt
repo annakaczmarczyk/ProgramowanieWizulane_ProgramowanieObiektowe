@@ -1,0 +1,18 @@
+E:\zmuda\PW\lab03\zad 1\BMR\BMR\bin\Debug\BMR.exe.config
+E:\zmuda\PW\lab03\zad 1\BMR\BMR\bin\Debug\BMR.exe
+E:\zmuda\PW\lab03\zad 1\BMR\BMR\bin\Debug\BMR.pdb
+E:\zmuda\PW\lab03\zad 1\BMR\BMR\obj\Debug\BMR.csprojAssemblyReference.cache
+E:\zmuda\PW\lab03\zad 1\BMR\BMR\obj\Debug\BMR.Form1.resources
+E:\zmuda\PW\lab03\zad 1\BMR\BMR\obj\Debug\BMR.Properties.Resources.resources
+E:\zmuda\PW\lab03\zad 1\BMR\BMR\obj\Debug\BMR.csproj.GenerateResource.cache
+E:\zmuda\PW\lab03\zad 1\BMR\BMR\obj\Debug\BMR.exe
+E:\zmuda\PW\lab03\zad 1\BMR\BMR\obj\Debug\BMR.pdb
+E:\BMR\BMR\bin\Debug\BMR.exe.config
+E:\BMR\BMR\bin\Debug\BMR.exe
+E:\BMR\BMR\bin\Debug\BMR.pdb
+E:\BMR\BMR\obj\Debug\BMR.csprojAssemblyReference.cache
+E:\BMR\BMR\obj\Debug\BMR.Form1.resources
+E:\BMR\BMR\obj\Debug\BMR.Properties.Resources.resources
+E:\BMR\BMR\obj\Debug\BMR.csproj.GenerateResource.cache
+E:\BMR\BMR\obj\Debug\BMR.exe
+E:\BMR\BMR\obj\Debug\BMR.pdb
