@@ -1,0 +1,7 @@
+C:\Users\kociary\source\repos\DIAGRAM_KLAS_ZADANIE\DIAGRAM_KLAS_ZADANIE\bin\Debug\DIAGRAM_KLAS_ZADANIE.exe.config
+C:\Users\kociary\source\repos\DIAGRAM_KLAS_ZADANIE\DIAGRAM_KLAS_ZADANIE\bin\Debug\DIAGRAM_KLAS_ZADANIE.exe
+C:\Users\kociary\source\repos\DIAGRAM_KLAS_ZADANIE\DIAGRAM_KLAS_ZADANIE\bin\Debug\DIAGRAM_KLAS_ZADANIE.pdb
+C:\Users\kociary\source\repos\DIAGRAM_KLAS_ZADANIE\DIAGRAM_KLAS_ZADANIE\obj\Debug\DIAGRAM_KLAS_ZADANIE.csprojAssemblyReference.cache
+C:\Users\kociary\source\repos\DIAGRAM_KLAS_ZADANIE\DIAGRAM_KLAS_ZADANIE\obj\Debug\DIAGRAM_KLAS_ZADANIE.csproj.CoreCompileInputs.cache
+C:\Users\kociary\source\repos\DIAGRAM_KLAS_ZADANIE\DIAGRAM_KLAS_ZADANIE\obj\Debug\DIAGRAM_KLAS_ZADANIE.exe
+C:\Users\kociary\source\repos\DIAGRAM_KLAS_ZADANIE\DIAGRAM_KLAS_ZADANIE\obj\Debug\DIAGRAM_KLAS_ZADANIE.pdb
